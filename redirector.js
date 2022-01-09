@@ -13,5 +13,5 @@ loc = loc.replace('https://skparab1.github.io/go/','')
 //     window.open('https://skparab1.github.io/wrongredirect',"_self")
 // }
 
-const jsonData= require('./test.json'); 
-console.log(jsonData);
+// const jsonData= require('./test.json'); 
+// console.log(jsonData);
